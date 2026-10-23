@@ -18,25 +18,25 @@ const contacts = [
     name: "Email",
     value: "example@email.com",
     icon: <Mail size={24} />,
-    href: "mailto:example@email.com"
+    href: "contact.abdelfattahahmed@gmail.com"
   },
   {
     name: "LinkedIn",
-    value: "Ahmed Abdullah",
+    value: "Abdelfattah Ahmed",
     icon: <LinkedinIcon size={24} />,
-    href: "https://www.linkedin.com/in/ahmed-abdullah-291154341/"
+    href: "https://www.linkedin.com/in/abdelfattah-ahmed-88479a294/"
   },
   {
     name: "GitHub",
-    value: "@a7medabdullah7",
+    value: "@Abdelfattahahmed8",
     icon: <GithubIcon size={24} />,
-    href: "https://github.com/a7medabdullah7"
+    href: "https://github.com/Abdelfattahahmed08"
   },
   {
     name: "Portfolio",
     value: "View Alternative",
     icon: <ExternalLink size={24} />,
-    href: "https://portfolio-p2p2.vercel.app/#hero"
+    href: "https://ai-portfolio7.vercel.app/"
   }
 ];
 
